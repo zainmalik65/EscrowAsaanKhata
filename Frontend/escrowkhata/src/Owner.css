@@ -1,0 +1,21 @@
+.bg2 {
+    background: url("./includes/1.jpg") no-repeat center center fixed;
+    height: 500px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.smallfont {
+    color: white;
+
+  }
+
+  .newfont {
+    color: brown;
+
+  }
+
+  table tr td{
+      padding:2vh;
+  }

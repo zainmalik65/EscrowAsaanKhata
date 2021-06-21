@@ -1,0 +1,11 @@
+.bg3 {
+    background: url("./includes/4.jpg") no-repeat center center fixed;
+    height: 400px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.smallfont {
+    color: black;
+  }
